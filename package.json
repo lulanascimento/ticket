@@ -1,0 +1,18 @@
+{
+    "name": "ticket_enrichment",
+    "description": "A Node-RED Project",
+    "version": "0.0.1",
+    "dependencies": {
+        "node-red-contrib-postgresql": "0.8.0",
+        "node-red-node-mysql": "1.0.0",
+        "node-red-contrib-moment": "4.0.0",
+        "node-red-contrib-oracledb-mod": "0.6.1",
+        "node-red-contrib-salesforce": "0.7.3"
+    },
+    "node-red": {
+        "settings": {
+            "flowFile": "flow.json",
+            "credentialsFile": "flow_cred.json"
+        }
+    }
+}
