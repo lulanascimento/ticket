@@ -8,6 +8,14 @@
         "env": []
     },
     {
+        "id": "e0965f0491bf9519",
+        "type": "tab",
+        "label": "state_machine",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
         "id": "6d8c566ec5f87da8",
         "type": "tab",
         "label": "get_incidents_sn",
